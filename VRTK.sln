@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRTK.CSharp", "VRTK.CSharp.csproj", "{F9EE1D98-96FB-8607-98F1-19A8C5DC4A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRTK.CSharp.Editor", "VRTK.CSharp.Editor.csproj", "{ECBCE6DE-5EC6-FAD5-04EA-F426F10484E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9EE1D98-96FB-8607-98F1-19A8C5DC4A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EE1D98-96FB-8607-98F1-19A8C5DC4A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EE1D98-96FB-8607-98F1-19A8C5DC4A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EE1D98-96FB-8607-98F1-19A8C5DC4A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBCE6DE-5EC6-FAD5-04EA-F426F10484E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBCE6DE-5EC6-FAD5-04EA-F426F10484E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBCE6DE-5EC6-FAD5-04EA-F426F10484E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBCE6DE-5EC6-FAD5-04EA-F426F10484E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
